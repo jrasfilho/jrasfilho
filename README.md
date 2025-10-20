@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Renato</h1>
-<h3 align="center">🎓 Engenharia de Computação | Estagiário de TI na SLB 📊 Dados | Automação | Desenvolvimento</h3>
+<h3 align="center">🎓 Engenharia de Computação | 📊 Dados | Automação | Desenvolvimento</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jrasfilho&label=Profile%20views&color=0e75b6&style=flat" alt="jrasfilho" />
