@@ -1,116 +1,50 @@
-<h1 align="center">Hi 👋, I'm José Renato</h1>
-<h3 align="center">🎓 Engenharia de Computação | 📊 Dados | Automação | Desenvolvimento</h3>
+# José Renato Araújo Santana Filho
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jrasfilho&label=Profile%20views&color=0e75b6&style=flat" alt="jrasfilho" />
-</p>
+**Computer Engineering student (UFS, Brazil) · IT intern working on systems integration, process automation and data**
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jrasfilho" alt="jrasfilho" />
-  </a>
-</p>
+I build the glue between systems: REST integrations, ETL pipelines in Python, automation workflows and the dashboards that show whether it all works. I care about the failures that don't throw errors — the request that returns `200 OK` with half the data missing.
+
+📍 Aracaju, Sergipe, Brazil · 🇧🇷 Portuguese (native) · 🇺🇸 English (advanced) · Open to internships in **backend, data and automation** (hybrid or remote)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joserenatofilho-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joserenatofilho/)
+[![Email](https://img.shields.io/badge/Email-jrasfilho11%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jrasfilho11@gmail.com)
 
 ---
 
-## 🔭 What I'm currently working on:
-- **GLPI and n8n integration**: Automating and managing service desk processes and workflows.
-- Enhancing **systems integrations** and improving **data management**.
+## What I work on
 
----
+**IT Intern — Aracaju City Hall (SEPLOG / COGETIN)** · *current*
+- Built REST API integrations between the IT service desk (**GLPI**) and the document platform (**1Doc**), extracting, transforming and syncing records with **Python** and **n8n**.
+- Found a silent data-quality failure: `HTTP 200` responses were hiding incomplete records after token expiry. Isolated the root cause, fixed the flow and added completeness validation.
+- Wrote **Python** scripts to analyze audit logs and rebuild event timelines for technical reports.
+- Built **Power BI** dashboards (data modeling, Power Query, DAX) and a GLPI metrics dashboard in **PHP + MySQL**.
+- Contributed to a citizen-service chatbot with a **RAG** architecture (Llama via Groq, **Supabase/PostgreSQL**, n8n) and tested internal web platforms (Laravel/Vue.js on **Docker**).
 
-## 🌱 I’m currently learning:
-- **Java**, **Python**, **n8n**, **Vue.js**, and working on personal growth through continuous learning.
+**IT Intern — SLB (Schlumberger)**
+- Built a request-management app in **Power Apps** and **Power BI** dashboards consolidating operational data.
 
----
+**Freelance web developer** · *2018 – present*
+- Web apps and APIs for small clients with **JavaScript/TypeScript, Node.js, React and Next.js**.
 
-## 📫 How to reach me:
-- 📧 Email: [jrasfilho11@gmail.com](mailto:jrasfilho11@gmail.com)
-- 💼 LinkedIn: [joserenatofilho](https://linkedin.com/in/joserenatofilho)
-- 🐦 Twitter: [zelinoooo](https://twitter.com/zelinoooo)
+## Tech I use
 
----
+| Area | Tools |
+|---|---|
+| Languages | Python, SQL, JavaScript/TypeScript, PHP · *academic:* C, Java |
+| Data | Pandas, NumPy, PostgreSQL, MySQL, Power BI (Power Query, DAX), Excel |
+| Integration & automation | REST APIs, FastAPI, n8n, Make, Power Apps |
+| Web | Node.js, React, Next.js |
+| Engineering | Git/GitHub, Docker, Linux, Scrum |
 
-## 📌 Connect with me:
-<p align="left">
-  <a href="https://twitter.com/zelinoooo" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zelinoooo" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/joserenatofilho" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joserenatofilho" height="30" width="40" />
-  </a>
-  <a href="https://seusite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-</p>
+**Currently learning:** automated testing (pytest) and CI with GitHub Actions, dimensional modeling, PySpark.
 
----
+## Public work
 
-## 🧰 Languages and Tools:
+Most of my professional work runs on internal government and corporate systems, so the code isn't public. I'm rebuilding this profile with open, self-contained projects that show the same skills — integration, ETL and data quality — using public APIs and synthetic data.
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-</p>
+<details>
+<summary><b>🇧🇷 Em português</b></summary>
 
----
+Estudante de Engenharia de Computação na UFS e estagiário de TI na Prefeitura de Aracaju (SEPLOG/COGETIN). Trabalho com integração de sistemas via APIs REST (GLPI ↔ 1Doc), pipelines de ETL e automação em Python e n8n, dashboards em Power BI e um chatbot de atendimento ao cidadão com arquitetura RAG. Antes, estagiei na SLB com Power Apps e Power BI. Busco estágio em **backend, dados e automação**, híbrido em Aracaju ou remoto.
 
-## 📈 GitHub Stats
-
-<picture align="center">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jrasfilho&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jrasfilho&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jrasfilho&show_icons=true" />
-</picture>
-
----
-
-## 📜 More About Me:
-
-I’m always learning and sharing knowledge. In addition to working on **GLPI**, I’m also deeply passionate about building **automated systems** to simplify tasks and improve efficiency. I strive to bring automation, data analysis, and development together to create innovative solutions.
-
-Feel free to reach out if you have any questions, project ideas, or want to collaborate! 😊
-
+</details>
